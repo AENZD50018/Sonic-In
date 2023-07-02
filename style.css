@@ -904,3 +904,24 @@ p:hover{
   cursor: not-allowed;
 }
 
+.footer {
+  background-color: #000000;
+  padding: 20px 0;
+  height: 40px;
+  text-align: center;
+  position: relative;
+  top: 680px;
+  display: flex;
+  align-items: flex-end;
+  z-index: 2;
+}
+
+.containi {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin: 0;
+  color: #ffffff;
+}
